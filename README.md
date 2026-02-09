@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MOHITH%20PAGADALA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%26%20AI%20Aspirant%20-%20Data%20Science%20Student%20&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MOHITHPAGADALA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20De&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Follow" alt="Typing introduction" />
@@ -29,7 +29,7 @@
   <img src="https://streak-stats.demolab.com/?user=P-mohith230&theme=dracula&hide_border=true&cache_seconds=86400" alt="P-mohith230's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=P-mohith230&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MOHITH PAGADALA's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=P-mohith230&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MOHITHPAGADALA's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=P-mohith230&theme=dracula&radius=10" alt="P-mohith230's Activity Graph" />
@@ -61,7 +61,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/mohith-pagadala-61885b2a4/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="MOHITH PAGADALA's LinkedIn"/></a> <a href="https://x.com/Mahi_bahi_230" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="MOHITH PAGADALA's Twitter"/></a> <a href="mailto:pagadalamohith85@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="MOHITH PAGADALA's Email"/></a> <a href="https://wa.me/919347902490" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohith-pagadala-61885b2a4/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="MOHITHPAGADALA's LinkedIn"/></a> <a href="https://x.com/Mahi_bahi_230" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="MOHITHPAGADALA's Twitter"/></a> <a href="mailto:pagadalamohith85@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="MOHITHPAGADALA's Email"/></a> <a href="https://wa.me/919347902490" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
