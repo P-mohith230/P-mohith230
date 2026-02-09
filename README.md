@@ -1,27 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MOHITHPAGADALA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)&descSize=18&descAlignY=55&textBg=false"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Web%20Developer;AI%20Automation;Machine%20Learning" alt="Typing introduction" />
 </p>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=P-mohith230">
     <img src="https://komarev.com/ghpvc/?username=P-mohith230&label=Profile%20views&color=00FFFF&style=flat-square" alt="P-mohith230's profile views" />
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - i am an full stack web developer passionate about AI and Automation and Data Science Student with ML & DL
-
 
 ## 🧠 My Focus Areas
 - Artificial Intelligence & Machine Learning
 - Web Development
 - AI Automation - N8N , Make , Zapier
 - Data Science
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -34,7 +28,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=P-mohith230&theme=dracula&radius=10" alt="P-mohith230's Activity Graph" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
