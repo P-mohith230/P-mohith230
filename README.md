@@ -10,7 +10,14 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="70%" />
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" 
+    alt="Banner"
+    width="80%"
+  />
+</p>
+
 
 ## 📌 About Me
 - i am an full stack web developer passionate about AI and Automation and Data Science Student with ML & DL
