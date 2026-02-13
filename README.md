@@ -29,10 +29,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-mohith230&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="P-mohith230's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=P-mohith230&theme=dracula&hide_border=true&cache_seconds=86400" alt="P-mohith230's GitHub Streak" width="49%" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=P-mohith230&theme=radical&no-frame=true&margin-w=15" alt="MOHITH PAGADALA 's GitHub Trophies" />
 </p>
