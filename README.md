@@ -44,7 +44,7 @@
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHA1YjVtM3NuZ3p0bHNoZmpjOWFmcTJwaXhtYzl5enBjanhrdHQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" 
     alt="Banner"
-    width="60%"
+    width="55%"
   />
 </p>
 
