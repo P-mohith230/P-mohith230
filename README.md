@@ -37,6 +37,10 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=P-mohith230&theme=dracula&radius=10" alt="P-mohith230's Activity Graph" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P-mohith230&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="P-mohith230's GitHub Stats" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=P-mohith230&theme=dracula&hide_border=true&cache_seconds=86400" alt="P-mohith230's GitHub Streak" width="49%" />
+</p>
+<p align="center">
   <img 
     src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" 
     alt="Banner"
