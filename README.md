@@ -42,7 +42,7 @@
 </p>
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" 
+    src="[https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXNjMGk0eDlsMThsNDl2ZHN6ejkwam5yNmt2ZGJsdXJrdnRpcGh6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V216rdoG6TUVvXA0Tb/giphy.gif)" 
     alt="Banner"
     width="60%"
   />
