@@ -48,9 +48,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-mohith230&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/mohith-pagadala-61885b2a4/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="MOHITH PAGADALA 's LinkedIn"/></a> <a href="https://x.com/Mahi_bahi_230" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="MOHITH PAGADALA 's Twitter"/></a> <a href="mailto:pagadalamohith85@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="MOHITH PAGADALA 's Email"/></a> <a href="https://wa.me/919347902490" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
