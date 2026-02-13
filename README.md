@@ -9,6 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=P-mohith230&label=Profile%20views&color=00FFFF&style=flat-square" alt="P-mohith230's profile views" />
   </a>
 </p>
+
 ## 📌 About Me
 - I am an full stack web developer passionate about AI and Automation and Data Science Student with ML & DL.
 
