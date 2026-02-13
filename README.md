@@ -42,7 +42,7 @@
 </p>
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXNjMGk0eDlsMThsNDl2ZHN6ejkwam5yNmt2ZGJsdXJrdnRpcGh6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V216rdoG6TUVvXA0Tb/giphy.gif" 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHA1YjVtM3NuZ3p0bHNoZmpjOWFmcTJwaXhtYzl5enBjanhrdHQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" 
     alt="Banner"
     width="60%"
   />
