@@ -19,7 +19,7 @@
 - Web Development
 - AI Automation - N8N , Make , Zapier
 - Data Science
-
+- Algo Trading(QuantLib)
 
 
 
