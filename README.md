@@ -41,15 +41,21 @@
   
   <img src="https://streak-stats.demolab.com/?user=P-mohith230&theme=dracula&hide_border=true&cache_seconds=86400" alt="P-mohith230's GitHub Streak" width="70%" />
 </p>
+
+## GitHub Contribution Graph 📈
+
 <p align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=P-mohith230&theme=dracula&radius=10" alt="P-mohith230's Activity Graph" />
 </p>
+
+
 <p align="center">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHA1YjVtM3NuZ3p0bHNoZmpjOWFmcTJwaXhtYzl5enBjanhrdHQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" 
     alt="Banner"
     width="55%"
   />
+## Anyone Who Tries to Make Everyone Happy Is Admirable.
 </p>
 
 <picture>
