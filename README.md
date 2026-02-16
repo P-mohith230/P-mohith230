@@ -58,10 +58,10 @@
   />
 </p>
 
-<h3 align="right">
+<h2 align="right">
   ~~Anyone Who Tries to Make Everyone Happy Is 
   <span style="color: hotpink;"><b>Admirable.</b></span>
-</h3>
+</h2>
 <h1 align="right" >--Luffy</h1>
 
 ## Contribution Snack 🐍
