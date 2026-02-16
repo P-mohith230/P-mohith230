@@ -59,10 +59,10 @@
 </p>
 
 <h3 align="right">
-  Anyone Who Tries to Make Everyone Happy Is 
-  <span style="color: #ff2fdc;"><b>Admirable.</b></span> 💜
+  ~~Anyone Who Tries to Make Everyone Happy Is 
+  <span style="color: hotpink;"><b>Admirable.</b></span>
 </h3>
-<h3 align="right" >-Luffy</h3>
+<h3 align="right" >--Luffy</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
