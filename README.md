@@ -50,21 +50,19 @@
 
 ## 
 
-<div align="center">
+<p align="center">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHA1YjVtM3NuZ3p0bHNoZmpjOWFmcTJwaXhtYzl5enBjanhrdHQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" 
     alt="Banner"
     width="55%"
   />
-  
-  <div align="right" style="width: 100%;">
-    <h2>
-      ~~Anyone Who Tries to Make Everyone Happy Is 
-      <span style="color: hotpink;"><b>Admirable.</b></span>
-    </h2>
-    <h1>— Luffy</h1>
-  </div>
-</div>
+</p>
+
+<p align="right">
+  ~~Anyone Who Tries to Make Everyone Happy Is 
+  <span style="color: hotpink;"><b>Admirable.</b></span><br>
+  <b>— Luffy</b>
+</p>
 
 ## Contribution Snack 🐍
 
