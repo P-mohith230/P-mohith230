@@ -59,7 +59,7 @@
 </p>
 
 <p align="center"> Anyone Who Tries to Make Everyone Happy Is <b> Admirable.</b></p>
-
+<h3 align="right" >-Luffy</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
