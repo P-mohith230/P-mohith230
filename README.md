@@ -58,7 +58,7 @@
   />
 </p>
 
-<p align="center"> Anyone Who Tries to Make Everyone Happy Is <b> Admirable.</b></p>
+<h3 align="right"> Anyone Who Tries to Make Everyone Happy Is <b color='pink'> Admirable.</b></h3>
 <h3 align="right" >-Luffy</h3>
 
 <picture>
