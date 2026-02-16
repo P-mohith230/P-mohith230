@@ -42,7 +42,7 @@
   <img src="https://streak-stats.demolab.com/?user=P-mohith230&theme=dracula&hide_border=true&cache_seconds=86400" alt="P-mohith230's GitHub Streak" width="70%" />
 </p>
 <p align="center">
-  <img height="245em" src="https://github-readme-activity-graph.vercel.app/graph?username=P-mohith230&theme=dracula&radius=10" alt="P-mohith230's Activity Graph" />
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=P-mohith230&theme=dracula&radius=10" alt="P-mohith230's Activity Graph" />
 </p>
 <p align="center">
   <img 
