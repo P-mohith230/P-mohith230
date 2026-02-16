@@ -58,7 +58,7 @@
   />
 </p>
 
-                Anyone Who Tries to Make Everyone Happy Is Admirable.
+<p align="center"> Anyone Who Tries to Make Everyone Happy Is <b> Admirable.</b></p>
 
 
 <picture>
