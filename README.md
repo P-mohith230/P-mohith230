@@ -59,12 +59,12 @@
 </p>
 
 <p align="right">
-  <h2>~~Anyone Who Tries to Make Everyone Happy Is</h2> 
+  ~~Anyone Who Tries to Make Everyone Happy Is
   <span style="color: hotpink;"><b>Admirable.</b></span><br>
   <b>— Luffy</b>
 </p>
 
-## Contribution Snack 🐍
+## Contribution Snake 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
