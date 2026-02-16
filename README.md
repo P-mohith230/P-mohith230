@@ -57,13 +57,15 @@
     width="55%"
   />
 </p>
-<p>
-<h2 align="right">
-  ~~Anyone Who Tries to Make Everyone Happy Is 
-  <span style="color: hotpink;"><b>Admirable.</b></span>
-</h2>
-<h1 align="right" >--Luffy</h1>
-</p>
+
+<div align="right">
+  <h2>
+    ~~Anyone Who Tries to Make Everyone Happy Is 
+    <span style="color: hotpink;"><b>Admirable.</b></span>
+  </h2>
+  <h1>— Luffy</h1>
+</div>>
+
 ## Contribution Snack 🐍
 
 <picture>
