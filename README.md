@@ -60,7 +60,7 @@
 
 <p align="right">
   ~Anyone Who Tries to Make Everyone Happy😁 Is
-  <span style="color: hotpink;"><b>"Admirable</b></span><br>
+  <span style="color: hotpink;"><b>"Admirable💖</b></span><br>
   <b>— Luffy</b>
 </p>
 
