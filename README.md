@@ -11,7 +11,7 @@
 </p>
 
 ## 📌 About Me
-- I am an full stack web developer passionate about AI and Automation and Data Science Student with ML & DL.
+- I am an full stack web developer passionate about AI and Automation and Data Science Student with ML & DL and Strong interest in **QUANTITATIVE FINANCE**.
 
 
 ## 🧠 My Focus Areas
